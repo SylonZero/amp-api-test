@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.9.0",
+  "appInfo": {
+    "name": "SimpleTestAPI",
+    "description": "Sample application for e-commerce",
+    "version": "e1iig14c",
+    "id": "cktxrfo3t16161161bs6inohlxau",
+    "url": "https://app.amplication.com/cktxrfo3t16161161bs6inohlxau",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "YLm86Rfj4ctt",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cktxrfo3t16161161bs6inohlxau"
+    }
+  }
+}
